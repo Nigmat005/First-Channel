@@ -140,7 +140,7 @@ public class remove_duplicate {
     }
 
 
-}
+
  class added{
 public static void main(String[] args){
 System.out.println("Here is change");}
