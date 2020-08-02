@@ -9,7 +9,11 @@ public class Arraylist_frequency{
     String input="AAABBBCCDD";
         ArrayList<String>list=new ArrayList<>();
     for(int i=0;i<input.length();i++){
-        list.add(Character.toString(input.charAt(i)));
+        // Amending begins below
+        if(!list.contains(Arrays.asList(input.charAt(i))){
+         list.add(Character.toString(input.charAt(i)));
+        }
+        //list.add(Character.toString(input.charAt(i)));
     }
         System.out.println(list);
 for(String each:list){
