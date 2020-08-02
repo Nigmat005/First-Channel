@@ -143,6 +143,6 @@ public class remove_duplicate {
 
  class added{
 public static void main(String[] args){
-System.out.println("Here is change");}
+System.out.println("Here is change,new"); }// wanna add this
 }//hu  //That is amazing
 //Try one more time
