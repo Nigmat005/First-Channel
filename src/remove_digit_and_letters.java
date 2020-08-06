@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 
 public class remove_digit_and_letters {
     public static void main(String[] args) {

@@ -8,9 +8,10 @@ public class Recursion {
     }
 
     public static void main(String[] args) {
-       int result=recursion(10);
-        System.out.println(result);
+        System.out.println(recursion(10));
     }
+
+
 
 }
 

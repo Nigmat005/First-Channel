@@ -31,7 +31,7 @@ public class Replit_215 {
 class easyReplit_215{
     public static void main(String[] args)
     {  ArrayList<Integer>value=new ArrayList<>();
-    value.addAll(Arrays.asList(1,2,3,4,5));
+    value.addAll(Arrays.asList(1,2,3,4,5,656,364,35,52));
         System.out.println(twoTimes(value));
     }
     //create your method below
